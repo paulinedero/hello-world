@@ -1,2 +1,1 @@
-Bonjour !
-Nous sommes tous présents aujuord'hui pour commencer la formation.
+First exercice to create a readme file. 
